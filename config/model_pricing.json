@@ -1,0 +1,40 @@
+{
+  "models": {
+    "gpt-4o": {
+      "name": "GPT-4o",
+      "provider": "OpenAI",
+      "input_price_per_1m": 5.00,
+      "output_price_per_1m": 15.00
+    },
+    "gpt-4o-mini": {
+      "name": "GPT-4o Mini",
+      "provider": "OpenAI",
+      "input_price_per_1m": 0.15,
+      "output_price_per_1m": 0.60
+    },
+    "claude-3-5-sonnet": {
+      "name": "Claude 3.5 Sonnet",
+      "provider": "Anthropic",
+      "input_price_per_1m": 3.00,
+      "output_price_per_1m": 15.00
+    },
+    "claude-3-haiku": {
+      "name": "Claude 3 Haiku",
+      "provider": "Anthropic",
+      "input_price_per_1m": 0.25,
+      "output_price_per_1m": 1.25
+    },
+    "gemini-1.5-pro": {
+      "name": "Gemini 1.5 Pro",
+      "provider": "Google",
+      "input_price_per_1m": 3.50,
+      "output_price_per_1m": 10.50
+    },
+    "gemini-1.5-flash": {
+      "name": "Gemini 1.5 Flash",
+      "provider": "Google",
+      "input_price_per_1m": 0.075,
+      "output_price_per_1m": 0.30
+    }
+  }
+}
