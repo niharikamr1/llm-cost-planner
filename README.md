@@ -1,7 +1,3 @@
-
-## LLM Cost Planner
-
-## About
 #  LLM Cost Planner
 
 
