@@ -1,6 +1,6 @@
-#LLM Cost Planner
+## LLM Cost Planner
 
-#About
+## About
 
 LLM Cost Planner is a Streamlit web application that helps engineering teams, product managers, and founders understand what their AI inference will actually cost — before they ship.
 
@@ -18,7 +18,7 @@ Everything runs in one place — no spreadsheets required.
 
 ---
 
-#Installation
+## Installation
 
  Requirements
 - Python 3.10+
