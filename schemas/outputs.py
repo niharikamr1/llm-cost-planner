@@ -15,6 +15,10 @@ class ComparisonResult(BaseModel):
     provider: str
     monthly_cost: float
     annual_cost: float
+
+    model_config = {
+    "protected_namespaces": ()
+    }
  
  
 class CachingResult(BaseModel):

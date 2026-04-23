@@ -6,6 +6,10 @@ class TokenCostInput(BaseModel):
     input_tokens: int
     output_tokens: int
     daily_calls: int
+
+    model_config = {
+    "protected_namespaces": ()
+    }
  
     @field_validator('input_tokens', 'output_tokens', 'daily_calls')
     @classmethod
