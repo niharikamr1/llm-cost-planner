@@ -51,13 +51,20 @@ Deploy using Streamlit Community Cloud (free, no server required)
 
 Steps
 Push your project to a public GitHub repository
+
 Go to https://share.streamlit.io
+
 Sign in with GitHub
+
 Click New App
+
 Set:
 Repository → your repo
+
 Branch → main
+
 File → app/main.py
+
 Click Deploy
 
 Live URL
