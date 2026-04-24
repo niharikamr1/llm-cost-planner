@@ -113,8 +113,6 @@ Deploy using **Streamlit Community Cloud** — free, no server required.
 | Branch      | `main`         |
 | Main file   | `app/main.py`  |
 
-**5.** Click **Deploy**
+##  Live Demo
 
-Your app will be live at:
-
-https://YOUR_USERNAME-llm-cost-planner.streamlit.app
+https://niharikamr1-llm-cost-planner.streamlit.app
